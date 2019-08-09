@@ -45,8 +45,7 @@ After Installing Python Open your Command Prompt `windows + r` and Type `python`
 
 You will see something like this:
 > Python 3.7.1 (default, Dec 10 2018, 22:54:23) [MSC v.1915 64 bit (AMD64)] :: Anaconda, Inc. on win32
-> Type "help", "copyright", "credits" or "license" for more information.
-  >>>
+> Type "help", "copyright", "credits" or "license" for more information. >>>
 
 Then Download and Install **Pycharm** Community edition which is [Here.](https://www.jetbrains.com/pycharm/download/)
 and Start working on your exercises. 
