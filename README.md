@@ -29,24 +29,24 @@ I highly recommend using anaconda for installing python. [Click here](https://ww
 
 If you are on a **Linux** machine:
 
-- Open a terminal `Ctrl+Alt+T` and navigate to the directory where Anaconda was downloaded.
+- Open a terminal `Ctrl + Alt + T` and navigate to the directory where Anaconda was downloaded.
 
-- Change the permission to the downloaded file so that it can be executed. So if the downloaded file name is Anaconda3-5.1.0-Linux-x86_64.sh, then use the following command:
+- Change the permission to the downloaded file so that it can be executed. So if the downloaded file name is `Anaconda3-5.1.0-Linux-x86_64.sh`, then use the following command:
 
-> chmod a+x Anaconda3-5.1.0-Linux-x86_64.sh
+ > chmod a+x Anaconda3-5.1.0-Linux-x86_64.sh
 
-- Now, run the installation script using ./Anaconda3-5.1.0-Linux-x86_64.sh, and follow installation instructions in the terminal.
+- Now, run the installation script using `./Anaconda3-5.1.0-Linux-x86_64.sh`, and follow installation instructions in the terminal.
 
 ###### Or
 You can Install **Python -version: 3.7.1** seperately by downloading [Here.](https://www.python.org/downloads/release/python-371/
 )
 
-After Installing Python Open your Command Prompt `windows+r` and Type `python` and press `Enter`
+After Installing Python Open your Command Prompt `windows + r` and Type `python` and press `Enter`
 
 You will see something like this:
 > Python 3.7.1 (default, Dec 10 2018, 22:54:23) [MSC v.1915 64 bit (AMD64)] :: Anaconda, Inc. on win32
 > Type "help", "copyright", "credits" or "license" for more information.
-> >>>
+  >>>
 
 Then Download and Install **Pycharm** Community edition which is [Here.](https://www.jetbrains.com/pycharm/download/)
 and Start working on your exercises. 
