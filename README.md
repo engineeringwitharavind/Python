@@ -8,10 +8,10 @@ The Python learning ecosystem has grown exponentially in the past few years, and
 All are very Basic exercises to get to know How **Python** works with **Strings,Lists,Tuples,Dictionary,Variables,Identifiers,
 Arguments,Parameters,Functions,Scope of Variables**
 
-##Requirements
+## Requirements
 These Exercises Solutions are done with **Python-3.7.1**.So I recommend you to use Python version 3.7 and above.
 
-##Downloading the Exercises
+## Downloading the Exercises
 To get started, you can start by either downloading a zip file of these assignments by clicking on the Clone or download button. If you have git installed on your system, you can clone this repository using :
 
 > clone https://github.com/i-m-aravind/Python-Practice-Exercises.git
@@ -20,7 +20,7 @@ Each folder contains two files:
 - A PNG file `.png` contains Questions for all the Exercises Seperately.
 - A python file `.py` contains solutions done by me. You can correct me if i am wrong and modify it as needed.
 
-##Python Installation
+## Python Installation
 
 I highly recommend using anaconda for installing python. [Click here](https://www.anaconda.com/download/) to go to Anaconda's download page. Make sure to download Python 3.7 version and above. If you are on a windows machine:
 
@@ -37,7 +37,7 @@ If you are on a **Linux** machine:
 
 - Now, run the installation script using ./Anaconda3-5.1.0-Linux-x86_64.sh, and follow installation instructions in the terminal.
 
-######Or
+###### Or
 You can Install **Python -version: 3.7.1** seperately by downloading [Here.](https://www.python.org/downloads/release/python-371/
 )
 
@@ -54,20 +54,23 @@ and Start working on your exercises.
 If you are on a **Linux** machine:
 
 - Open the Terminal `Ctrl+Alt+T` Check for the Updates by entering `sudo apt-get update` and 
-install python 3.7 `sudo apt-get install python3.7`and verify the version by typing `python3.7 --version`.
+install python 3.7 `sudo apt-get install python3.7`
+- After Installation,verify the version by typing `python3.7 --version`.
 -Then,to install **PyCharm** first install Snap Package Management which is better way to install packages on Ubuntu
-by entering `sudo apt install snapd snapd-xdg-open` and now for **PyCharm** enter `sudo snap install pycharm-community --classic`
-and start working on your exercises.
+by entering 
+`sudo apt install snapd snapd-xdg-open` 
+and now for **PyCharm** enter 
+`sudo snap install pycharm-community --classic` and start working on your exercises.
 
-##Python Tutorials
+## Python Tutorials
 If you are new to programming or Python, no worries! There are plenty of tutorials and documentation to get you started. Here are a few links which might be of help:
 - [Python Programming:](https://pythonprogramming.net/introduction-to-python-programming/) A turorial with videos about the basics of python.
 - [Python in Action:](https://www.geeksforgeeks.org/python-programming-examples/) If you are comformtable with basics,then dive into this website which is best according to me.
 
-##Acknowledgements
+## Acknowledgements
 I am also a begineer in Python Programming and My Solutions are not accurate.So Try it on your Own and Correct me if i am Wrong.Thanks.
 
-##Contact
+## Contact
 You can mail me anytime **s.aravindviews@gmail.com** and I will respond within a day.We can collab and learn more.
 
 Good Luck to All :smile: :thumbsup: and Let the Programming Journey Begin :raised_hands: .
