@@ -67,7 +67,7 @@ If you are new to programming or Python, no worries! There are plenty of tutoria
 - [Python in Action:](https://www.geeksforgeeks.org/python-programming-examples/) If you are comformtable with basics,then dive into this website which is best according to me.
 
 ## Acknowledgements
-I am also a begineer in Python Programming and My Solutions are not accurate.So Try it on your Own and Correct me if i am Wrong.Thanks.
+I am not an expert in Python Programming and my Solutions are not so accurate.So don't check your solutions with my solutions completely.Use it just for reference. Thanks.
 
 ## Contact
 You can mail me anytime **s.aravindviews@gmail.com** and I will respond within a day.We can collab and learn more.
