@@ -72,4 +72,4 @@ I am not an expert in Python Programming and my Solutions are not so accurate.So
 ## Contact
 You can mail me anytime **s.aravindviews@gmail.com** and I will respond within a day.We can collab and learn more.
 
-Good Luck to All :smile: :thumbsup: and Let the Programming Journey Begin :raised_hands: .
+Good Luck :thumbsup:
