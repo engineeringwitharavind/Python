@@ -12,7 +12,7 @@ Arguments, Parameters, Functions, Scope of Variables**
 These Exercises Solutions are done with **Python-3.7.1**.So I recommend you to use Python version 3.7 and above.
 
 ## Downloading the Exercises
-To get started, you can start by either downloading a zip file of these assignments by clicking on the Clone or download button. If you have git installed on your system, you can clone this repository using :
+To get started, you can start by either downloading a zip file of these assignments by clicking on the Clone or download button. If you have `git` installed on your system, you can clone this repository using :
 
 > clone https://github.com/i-m-aravind/Python-Practice-Exercises.git
 
