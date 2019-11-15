@@ -6,7 +6,7 @@ Practice Exercises to get in the flow of Python
 The Python learning ecosystem has grown exponentially in the past few years, and still gaining momentum. I think that many students who want to get started with their Python learning journey like me. It is for those reasons I have decided to re-write all the programming assignments in Python, so students like me can get acquainted with its ecosystem from the start of their learning journey.
 
 All are very Basic exercises to get to know How **Python** works with **Strings, Lists, Tuples, Dictionary, Variables, Identifiers,
-Arguments,Parameters,Functions,Scope of Variables**
+Arguments, Parameters, Functions, Scope of Variables**
 
 ## Requirements
 These Exercises Solutions are done with **Python-3.7.1**.So I recommend you to use Python version 3.7 and above.
