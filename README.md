@@ -1,7 +1,7 @@
 # Python-Exercises
 Practice Exercises to get in the flow of Python
 
-![Alt Text](http://www.bcgsc.ca/about/resources/python-logo.gif)
+![Alt Text](https://github.com/aravind-alpha/Python-Exercises/blob/master/python.png)
 
 The Python learning ecosystem has grown exponentially in the past few years, and still gaining momentum. I think that many students who want to get started with their Python learning journey like me. It is for those reasons I have decided to re-write all the programming assignments in Python, so students like me can get acquainted with its ecosystem from the start of their learning journey.
 
@@ -65,8 +65,5 @@ and now for **PyCharm** enter
 If you are new to programming or Python, no worries! There are plenty of tutorials and documentation to get you started. Here are a few links which might be of help:
 - [Python Programming:](https://pythonprogramming.net/introduction-to-python-programming/) A turorial with videos about the basics of python.
 - [Python Geeks for Geeks:](https://www.geeksforgeeks.org/python-programming-examples/) If you are comformtable with basics,then dive into this website.You can learn more here in depth.
-
-## Acknowledgements
-My Solutions may not be so accurate or optimal for you.So don't check your solutions with my solutions completely.Use it just for reference. Thanks.
 
 Good Luck :thumbsup:
