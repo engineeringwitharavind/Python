@@ -65,5 +65,3 @@ and now for **PyCharm** enter
 If you are new to programming or Python, no worries! There are plenty of tutorials and documentation to get you started. Here are a few links which might be of help:
 - [Python Programming:](https://pythonprogramming.net/introduction-to-python-programming/) A turorial with videos about the basics of python.
 - [Python Geeks for Geeks:](https://www.geeksforgeeks.org/python-programming-examples/) If you are comformtable with basics,then dive into this website.You can learn more here in depth.
-
-Good Luck :thumbsup:
