@@ -1,4 +1,4 @@
-# Python-Practice-Exercises
+# Python-Exercises
 Practice Exercises to get in the flow of Python
 
 ![Alt Text](http://www.bcgsc.ca/about/resources/python-logo.gif)
