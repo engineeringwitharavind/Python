@@ -1,15 +1,15 @@
 # Python-Exercises
-Practice Exercises to get in the flow of Python
+Practice Exercises to know and implement Basic concepts using Python.
 
 ![Alt Text](https://github.com/aravind-alpha/Python-Exercises/blob/master/python.png)
 
-The Python learning ecosystem has grown exponentially in the past few years, and still gaining momentum. I think that many students who want to get started with their Python learning journey like me. It is for those reasons I have decided to re-write all the programming assignments in Python, so students like me can get acquainted with its ecosystem from the start of their learning journey.
+The Python learning ecosystem has grown exponentially in the past few years, and still gaining momentum. These exercises will be useful to know How Python works!
 
-All are very Basic exercises to get to know How **Python** works with **Strings, Lists, Tuples, Dictionary, Variables, Identifiers,
+All of these exercises is useful to get to know How **Python** works with **Strings, Lists, Tuples, Dictionary, Variables, Identifiers,
 Arguments, Parameters, Functions, Scope of Variables**
 
 ## Requirements
-These Exercises Solutions are done with **Python-3.7.1**.So I recommend you to use Python version 3.7 and above.
+These Exercises Solutions are done with **Python-3.7.1**.So I recommend you to use Python version 3 and above.
 
 ## Downloading the Exercises
 To get started, you can start by either downloading a zip file of these assignments by clicking on the Clone or download button. If you have `git` installed on your system, you can clone this repository using :
@@ -55,13 +55,13 @@ If you are on a **Linux** machine:
 - Open the Terminal `Ctrl+Alt+T` Check for the Updates by entering `sudo apt-get update` and 
 install python 3.7 `sudo apt-get install python3.7`
 - After Installation,verify the version by typing `python3.7 --version`.
--Then,to install **PyCharm** first install Snap Package Management which is better way to install packages on Ubuntu
+- Then,to install **PyCharm** first install Snap Package Management which is better way to install packages on Ubuntu
 by entering 
 `sudo apt install snapd snapd-xdg-open` 
 and now for **PyCharm** enter 
 `sudo snap install pycharm-community --classic` and start working on your exercises.
 
 ## Python Tutorials
-If you are new to programming or Python, no worries! There are plenty of tutorials and documentation to get you started. Here are a few links which might be of help:
+If you are new to programming or Python,Then, there are plenty of tutorials and documentations available to get you started. Here are a few links which might be of help:
 - [Python Programming:](https://pythonprogramming.net/introduction-to-python-programming/) A turorial with videos about the basics of python.
 - [Python Geeks for Geeks:](https://www.geeksforgeeks.org/python-programming-examples/) If you are comformtable with basics,then dive into this website.You can learn more here in depth.
