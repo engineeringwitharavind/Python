@@ -22,7 +22,7 @@ Each folder contains two files:
 
 ## Python Installation
 
-I highly recommend using anaconda for installing python. [Click here](https://www.anaconda.com/download/) to go to Anaconda's download page. Make sure to download Python 3.7 version and above. If you are on a windows machine:
+I recommend using anaconda for installing python. [Click here](https://www.anaconda.com/download/) to go to Anaconda's download page. Make sure to download Python 3.7 version and above. If you are on a windows machine:
 
 - Open the executable file after downloading is complete and follow instructions.
 - Once installation is complete, open Anaconda prompt from the start menu. This will open a terminal with python enabled.
@@ -38,6 +38,7 @@ If you are on a **Linux** machine:
 - Now, run the installation script using `./Anaconda3-5.1.0-Linux-x86_64.sh`, and follow installation instructions in the terminal.
 
 ###### Or
+
 You can Install **Python -version: 3.7.1** seperately by downloading [Here.](https://www.python.org/downloads/release/python-371/
 )
 
@@ -62,6 +63,7 @@ and now for **PyCharm** enter
 `sudo snap install pycharm-community --classic` and start working on your exercises.
 
 ## Python Tutorials
+
 If you are new to programming or Python,Then, there are plenty of tutorials and documentations available to get you started. Here are a few links which might be of help:
 - [Python Programming:](https://pythonprogramming.net/introduction-to-python-programming/) A turorial with videos about the basics of python.
 - [Python Geeks for Geeks:](https://www.geeksforgeeks.org/python-programming-examples/) If you are comformtable with basics,then dive into this website.You can learn more here in depth.
