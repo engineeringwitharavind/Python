@@ -39,8 +39,7 @@ If you are on a **Linux** machine:
 
 ###### Or
 
-You can Install **Python -version: 3.7.1** seperately by downloading [Here.](https://www.python.org/downloads/release/python-371/
-)
+You can Install **Python -version: 3.7.1** seperately by downloading [Here.](https://www.python.org/downloads/release/python-371/)
 
 After Installing Python Open your Command Prompt `windows + r` and Type `python` and press `Enter`
 
@@ -54,16 +53,27 @@ and Start working on your exercises.
 If you are on a **Linux** machine:
 
 - Open the Terminal `Ctrl+Alt+T` Check for the Updates by entering `sudo apt-get update` and 
-install python 3.7 `sudo apt-get install python3.7`
+install python 3.7 
+
+> sudo apt-get install python3.7
+
 - After Installation,verify the version by typing `python3.7 --version`.
+
 - Then,to install **PyCharm** first install Snap Package Management which is better way to install packages on Ubuntu
 by entering 
-`sudo apt install snapd snapd-xdg-open` 
+
+> sudo apt install snapd snapd-xdg-open
+ 
 and now for **PyCharm** enter 
-`sudo snap install pycharm-community --classic` and start working on your exercises.
+
+> sudo snap install pycharm-community --classic
+
+and start working on your exercises.
 
 ## Python Tutorials
 
 If you are new to programming or Python,Then, there are plenty of tutorials and documentations available to get you started. Here are a few links which might be of help:
+
 - [Python Programming:](https://pythonprogramming.net/introduction-to-python-programming/) A turorial with videos about the basics of python.
+
 - [Python Geeks for Geeks:](https://www.geeksforgeeks.org/python-programming-examples/) If you are comformtable with basics,then dive into this website.You can learn more here in depth.
