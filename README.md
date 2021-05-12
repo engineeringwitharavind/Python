@@ -14,7 +14,9 @@ These Exercises Solutions are done with **Python-3.7.1**.So I recommend you to u
 ## Downloading the Exercises
 To get started, you can start by either downloading a zip file of these assignments by clicking on the Clone or download button. If you have `git` installed on your system, you can clone this repository using :
 
-> clone https://github.com/i-m-aravind/Python-Practice-Exercises.git
+```
+git clone https://github.com/i-m-aravind/Python-Practice-Exercises.git
+```
 
 Each folder contains two files:
 - A PNG file `.png` contains Questions for all the Exercises Seperately.
@@ -33,7 +35,9 @@ If you are on a **Linux** machine:
 
 - Change the permission to the downloaded file so that it can be executed. So if the downloaded file name is `Anaconda3-5.1.0-Linux-x86_64.sh`, then use the following command:
 
- > chmod a+x Anaconda3-5.1.0-Linux-x86_64.sh
+ ```
+ chmod a+x Anaconda3-5.1.0-Linux-x86_64.sh
+```
 
 - Now, run the installation script using `./Anaconda3-5.1.0-Linux-x86_64.sh`, and follow installation instructions in the terminal.
 
@@ -44,8 +48,11 @@ You can Install **Python -version: 3.7.1** seperately by downloading [Here.](htt
 After Installing Python Open your Command Prompt `windows + r` and Type `python` and press `Enter`
 
 You will see something like this:
+
+```
 > Python 3.7.1 (default, Dec 10 2018, 22:54:23) [MSC v.1915 64 bit (AMD64)] :: Anaconda, Inc. on win32
 > Type "help", "copyright", "credits" or "license" for more information. >>>
+```
 
 Then Download and Install **Pycharm** Community edition which is [Here.](https://www.jetbrains.com/pycharm/download/)
 and Start working on your exercises. 
@@ -55,18 +62,28 @@ If you are on a **Linux** machine:
 - Open the Terminal `Ctrl+Alt+T` Check for the Updates by entering `sudo apt-get update` and 
 install python 3.7 
 
-> sudo apt-get install python3.7
+```
+sudo apt-get install python3.7
+```
 
-- After Installation,verify the version by typing `python3.7 --version`.
+- After Installation,verify the version by typing 
+
+```
+python3.7 --version
+```
 
 - Then,to install **PyCharm** first install Snap Package Management which is better way to install packages on Ubuntu
 by entering 
 
-> sudo apt install snapd snapd-xdg-open
- 
+```
+sudo apt install snapd snapd-xdg-open
+```
+
 and now for **PyCharm** enter 
 
-> sudo snap install pycharm-community --classic
+```
+sudo snap install pycharm-community --classic
+```
 
 and start working on your exercises.
 
