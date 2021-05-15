@@ -19,7 +19,9 @@ git clone https://github.com/i-m-aravind/Python-Practice-Exercises.git
 ```
 
 Each folder contains two files:
+
 - A PNG file `.png` contains Questions for all the Exercises Seperately.
+
 - A python file `.py` contains solutions done by me. You can correct me if i am wrong and modify it as needed.
 
 ## Python Installation
@@ -27,6 +29,7 @@ Each folder contains two files:
 I recommend using anaconda for installing python. [Click here](https://www.anaconda.com/download/) to go to Anaconda's download page. Make sure to download Python 3.7 version and above. If you are on a windows machine:
 
 - Open the executable file after downloading is complete and follow instructions.
+
 - Once installation is complete, open Anaconda prompt from the start menu. This will open a terminal with python enabled.
 
 If you are on a **Linux** machine:
