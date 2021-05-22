@@ -94,8 +94,8 @@ and start working on your exercises.
 
 ### Python Tutorials
 
-If you are new to programming or Python,Then, there are plenty of tutorials and documentations available to get you started. Here are a few links which might be of help:
+If you are new to programming or Python, Here are a few links which might be of help:
 
-- [Python Programming:](https://pythonprogramming.net/introduction-to-python-programming/) A turorial with videos about the basics of python.
+- [Python Programming:](https://pythonprogramming.net/introduction-to-python-programming/) A video turorials about the basics.
 
-- [Python Geeks for Geeks:](https://www.geeksforgeeks.org/python-programming-examples/) If you are comformtable with basics,then dive into this website.You can learn more here in depth.
+- [Python Geeks for Geeks:](https://www.geeksforgeeks.org/python-programming-examples/) If you are comformtable with basics, then dive into this website. You can learn more here in depth with code snippets. Cheers! 
