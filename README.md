@@ -1,17 +1,20 @@
-# Python-Exercises
+### Python-Exercises
+
 Practice Exercises to know and implement Basic concepts using Python.
 
-![Alt Text](https://github.com/aravind-alpha/Python-Exercises/blob/master/python.png)
+![Python Logo](https://github.com/aravind-alpha/Python-Exercises/blob/master/python.png)
 
 The Python learning ecosystem has grown exponentially in the past few years, and still gaining momentum. These exercises will be useful to know How Python works!
 
 All of these exercises is useful to get to know How **Python** works with **Strings, Lists, Tuples, Dictionary, Variables, Identifiers,
 Arguments, Parameters, Functions, Scope of Variables**
 
-## Requirements
+#### Requirements
+
 These Exercises Solutions are done with **Python-3.7.1**.So I recommend you to use Python version 3 and above.
 
-## Downloading the Exercises
+### Downloading the Exercises
+
 To get started, you can start by either downloading a zip file of these assignments by clicking on the Clone or download button. If you have `git` installed on your system, you can clone this repository using :
 
 ```
@@ -24,9 +27,9 @@ Each folder contains two files:
 
 - A python file `.py` contains solutions done by me. You can correct me if i am wrong and modify it as needed.
 
-## Python Installation
+### Python Installation
 
-I recommend using anaconda for installing python. [Click here](https://www.anaconda.com/download/) to go to Anaconda's download page. Make sure to download Python 3.7 version and above. If you are on a windows machine:
+I recommend using anaconda for installing python. Go to [Anaconda's download page](https://www.anaconda.com/download/). Make sure to download Python 3.7 version and above. If you are on a windows machine:
 
 - Open the executable file after downloading is complete and follow instructions.
 
@@ -44,9 +47,9 @@ If you are on a **Linux** machine:
 
 - Now, run the installation script using `./Anaconda3-5.1.0-Linux-x86_64.sh`, and follow installation instructions in the terminal.
 
-###### Or
+#### Or
 
-You can Install **Python -version: 3.7.1** seperately by downloading [Here.](https://www.python.org/downloads/release/python-371/)
+You can Install **Python version: 3.7.1** seperately by downloading [Here.](https://www.python.org/downloads/release/python-371/)
 
 After Installing Python Open your Command Prompt `windows + r` and Type `python` and press `Enter`
 
@@ -57,8 +60,7 @@ You will see something like this:
 > Type "help", "copyright", "credits" or "license" for more information. >>>
 ```
 
-Then Download and Install **Pycharm** Community edition which is [Here.](https://www.jetbrains.com/pycharm/download/)
-and Start working on your exercises. 
+Then Download and Install **Pycharm** Community edition which is [Here.](https://www.jetbrains.com/pycharm/download/) and Start working on your exercises. 
 
 If you are on a **Linux** machine:
 
@@ -72,7 +74,7 @@ sudo apt-get install python3.7
 - After Installation,verify the version by typing 
 
 ```
-python3.7 --version
+python3 --version
 ```
 
 - Then,to install **PyCharm** first install Snap Package Management which is better way to install packages on Ubuntu
@@ -90,7 +92,7 @@ sudo snap install pycharm-community --classic
 
 and start working on your exercises.
 
-## Python Tutorials
+### Python Tutorials
 
 If you are new to programming or Python,Then, there are plenty of tutorials and documentations available to get you started. Here are a few links which might be of help:
 
