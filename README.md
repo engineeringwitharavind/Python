@@ -98,4 +98,4 @@ If you are new to programming or Python, Here are a few links which might be of 
 
 - [Python Programming:](https://pythonprogramming.net/introduction-to-python-programming/) A video turorials about the basics.
 
-- [Python Geeks for Geeks:](https://www.geeksforgeeks.org/python-programming-examples/) If you are comformtable with basics, then dive into this website. You can learn more here in depth with code snippets. Cheers! 
+- [Python Geeks for Geeks:](https://www.geeksforgeeks.org/python-programming-examples/) If you are comfortable with basics, then dive into this website. You can learn more here in depth with code snippets. Cheers! 
