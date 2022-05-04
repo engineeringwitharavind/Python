@@ -2,7 +2,7 @@
 
 Practice Exercises to know and implement Basic concepts using Python.
 
-![Python Logo](https://github.com/aravind-alpha/Python-Exercises/blob/master/python.png)
+![Python Logo](https://github.com/engineeringwitharavind/Python-Exercises/blob/master/python.png)
 
 The Python learning ecosystem has grown exponentially in the past few years, and still gaining momentum. These exercises will be useful to know How Python works!
 
@@ -18,7 +18,7 @@ These Exercises Solutions are done with **Python-3.7.1**.So I recommend you to u
 To get started, you can start by either downloading a zip file of these assignments by clicking on the Clone or download button. If you have `git` installed on your system, you can clone this repository using :
 
 ```
-git clone https://github.com/i-m-aravind/Python-Practice-Exercises.git
+git clone https://github.com/engineeringwitharavind/Python-Practice-Exercises.git
 ```
 
 Each folder contains two files:
