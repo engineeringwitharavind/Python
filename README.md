@@ -2,7 +2,7 @@
 
 Practice Exercises to know and implement Basic concepts using Python.
 
-![Python Logo](https://github.com/engineeringwitharavind/Python-Exercises/blob/master/python.png)
+![Python Logo](https://github.com/engineeringwitharavind/Python/blob/master/python.png)
 
 The Python learning ecosystem has grown exponentially in the past few years, and still gaining momentum. These exercises will be useful to know How Python works!
 
